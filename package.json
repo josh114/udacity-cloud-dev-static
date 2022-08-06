@@ -1,0 +1,22 @@
+{
+  "name": "cloud-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "node-sass sass/main.scss style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/josh114/udacity-cloud-dev-static.git"
+  },
+  "author": "Joshua kenedinum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josh114/udacity-cloud-dev-static/issues"
+  },
+  "homepage": "https://github.com/josh114/udacity-cloud-dev-static#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
